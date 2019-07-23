@@ -1,4 +1,4 @@
-package org.pih.warehouse.requisition
+package org.openboxes.requisition
 
 import org.junit.Ignore
 import org.junit.Test

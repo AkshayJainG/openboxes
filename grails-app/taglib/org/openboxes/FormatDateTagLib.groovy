@@ -1,4 +1,4 @@
-package org.pih.warehouse
+package org.openboxes
 
 import org.codehaus.groovy.grails.plugins.web.taglib.FormatTagLib
 

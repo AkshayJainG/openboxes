@@ -1,4 +1,4 @@
-package org.pih.warehouse
+package org.openboxes
 
 import grails.test.ControllerUnitTestCase
 import org.pih.warehouse.product.*

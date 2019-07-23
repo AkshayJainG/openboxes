@@ -7,7 +7,7 @@
  * the terms of this license.
  * You must not remove this notice, or any other, from this software.
  **/
-package openboxes
+package org.openboxes
 
 import grails.plugins.raven.RavenClient
 import grails.util.Environment

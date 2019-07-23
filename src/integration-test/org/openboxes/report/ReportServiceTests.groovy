@@ -10,7 +10,7 @@
 
 
 
-package org.pih.warehouse.report;
+package org.openboxes.report;
 
 
 class ReportServiceTests extends GroovyTestCase {

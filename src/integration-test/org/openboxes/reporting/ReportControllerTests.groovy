@@ -1,4 +1,4 @@
-package org.pih.warehouse.reporting
+package org.openboxes.reporting
 
 import grails.converters.JSON
 import grails.test.ControllerUnitTestCase

@@ -7,7 +7,7 @@
 * the terms of this license.
 * You must not remove this notice, or any other, from this software.
 **/ 
-package org.pih.warehouse.shipping
+package org.openboxes.shipping
 
 import grails.validation.ValidationException
 import org.apache.poi.hssf.usermodel.HSSFSheet

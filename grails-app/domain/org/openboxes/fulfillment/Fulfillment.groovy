@@ -7,7 +7,7 @@
 * the terms of this license.
 * You must not remove this notice, or any other, from this software.
 **/ 
-package org.pih.warehouse.fulfillment
+package org.openboxes.fulfillment
 
 import org.pih.warehouse.core.Person
 import org.pih.warehouse.requisition.Requisition

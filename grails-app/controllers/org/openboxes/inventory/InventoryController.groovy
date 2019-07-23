@@ -8,7 +8,7 @@
 * You must not remove this notice, or any other, from this software.
 **/
 
-package org.pih.warehouse.inventory
+package org.openboxes.inventory
 
 import grails.converters.JSON
 import grails.plugin.springcache.annotations.CacheFlush

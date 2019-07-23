@@ -1,4 +1,4 @@
-package org.pih.warehouse.jobs
+package org.openboxes.jobs
 
 import org.codehaus.groovy.grails.commons.ConfigurationHolder as CH
 import org.quartz.DisallowConcurrentExecution

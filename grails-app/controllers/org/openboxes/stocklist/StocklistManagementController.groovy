@@ -1,4 +1,4 @@
-package org.pih.warehouse.stocklist
+package org.openboxes.stocklist
 
 class StocklistManagementController {
 	def index = {

@@ -7,7 +7,7 @@
 * the terms of this license.
 * You must not remove this notice, or any other, from this software.
 **/ 
-package org.pih.warehouse.jobs
+package org.openboxes.jobs
 
 import grails.converters.JSON
 import grails.plugin.quartz2.TriggerHelper

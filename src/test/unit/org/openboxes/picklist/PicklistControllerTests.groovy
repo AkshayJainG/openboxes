@@ -1,4 +1,4 @@
-package org.pih.warehouse.picklist
+package org.openboxes.picklist
 
 import grails.test.ControllerUnitTestCase
 import org.pih.warehouse.inventory.Inventory

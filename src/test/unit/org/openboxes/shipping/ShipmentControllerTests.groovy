@@ -1,4 +1,4 @@
-package org.pih.warehouse.shipping
+package org.openboxes.shipping
 
 import grails.test.ControllerUnitTestCase
 import org.pih.warehouse.MessageTagLib

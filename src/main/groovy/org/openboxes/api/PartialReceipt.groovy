@@ -1,4 +1,4 @@
-package org.pih.warehouse.api
+package org.openboxes.api
 
 import org.pih.warehouse.core.Person
 import org.pih.warehouse.receiving.Receipt

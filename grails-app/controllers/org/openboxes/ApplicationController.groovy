@@ -1,4 +1,4 @@
-package openboxes
+package org.openboxes
 
 import grails.core.GrailsApplication
 import grails.plugins.*

@@ -1,4 +1,4 @@
-package org.pih.warehouse.api
+package org.openboxes.api
 
 import org.apache.commons.lang.math.NumberUtils
 import org.pih.warehouse.core.Constants

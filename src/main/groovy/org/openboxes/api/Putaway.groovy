@@ -1,4 +1,4 @@
-package org.pih.warehouse.api
+package org.openboxes.api
 
 import org.codehaus.groovy.grails.validation.Validateable
 import org.pih.warehouse.core.Location

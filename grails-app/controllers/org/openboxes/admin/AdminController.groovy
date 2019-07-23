@@ -7,7 +7,7 @@
 * the terms of this license.
 * You must not remove this notice, or any other, from this software.
 **/ 
-package org.pih.warehouse.admin
+package org.openboxes.admin
 
 import grails.util.GrailsUtil
 import net.sf.ehcache.Cache

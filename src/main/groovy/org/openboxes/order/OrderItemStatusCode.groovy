@@ -1,4 +1,4 @@
-package org.pih.warehouse.order
+package org.openboxes.order
 
 enum OrderItemStatusCode {
 

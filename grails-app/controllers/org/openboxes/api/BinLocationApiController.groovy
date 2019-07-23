@@ -7,7 +7,7 @@
 * the terms of this license.
 * You must not remove this notice, or any other, from this software.
 **/ 
-package org.pih.warehouse.api
+package org.openboxes.api
 
 import grails.converters.JSON
 import org.hibernate.ObjectNotFoundException

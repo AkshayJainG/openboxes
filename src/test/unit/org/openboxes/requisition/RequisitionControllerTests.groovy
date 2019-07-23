@@ -1,4 +1,4 @@
-package org.pih.warehouse.requisition
+package org.openboxes.requisition
 
 import grails.test.ControllerUnitTestCase
 import org.junit.Ignore

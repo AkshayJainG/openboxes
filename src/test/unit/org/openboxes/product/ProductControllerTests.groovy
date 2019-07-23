@@ -1,4 +1,4 @@
-package org.pih.warehouse.product
+package org.openboxes.product
 
 import grails.orm.PagedResultList
 import grails.test.ControllerUnitTestCase

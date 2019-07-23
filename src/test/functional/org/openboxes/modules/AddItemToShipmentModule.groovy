@@ -1,4 +1,4 @@
-package org.pih.warehouse.modules
+package org.openboxes.modules
 import geb.Module
 
 class AddItemToShipmentModule extends Module{

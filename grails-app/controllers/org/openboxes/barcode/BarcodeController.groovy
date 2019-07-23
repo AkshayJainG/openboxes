@@ -7,7 +7,7 @@
 * the terms of this license.
 * You must not remove this notice, or any other, from this software.
 **/ 
-package org.pih.warehouse.barcode
+package org.openboxes.barcode
 
 import org.krysalis.barcode4j.impl.code39.Code39Bean
 // import org.krysalis.barcode4j.impl.code128.Code128Bean

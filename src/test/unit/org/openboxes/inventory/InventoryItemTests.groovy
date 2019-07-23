@@ -1,4 +1,4 @@
-package org.pih.warehouse.inventory
+package org.openboxes.inventory
 
 import grails.test.GrailsUnitTestCase
 

@@ -1,4 +1,4 @@
-package org.pih.warehouse.core
+package org.openboxes.core
 
 // import groovy.util.GroovyTestCase;
 

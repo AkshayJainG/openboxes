@@ -1,4 +1,4 @@
-package openboxes
+package org.openboxes
 
 class BootStrap {
 

@@ -1,4 +1,4 @@
-package org.pih.warehouse.user
+package org.openboxes.user
 
 import org.junit.Ignore
 import org.pih.warehouse.core.*

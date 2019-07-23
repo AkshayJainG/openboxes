@@ -1,4 +1,4 @@
-package org.pih.warehouse.log4j.net
+package org.openboxes.log4j.net
 
 import org.apache.log4j.Layout
 import org.apache.log4j.PatternLayout

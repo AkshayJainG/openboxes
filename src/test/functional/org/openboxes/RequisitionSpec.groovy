@@ -1,4 +1,4 @@
-package org.pih.warehouse
+package org.openboxes
 
 import geb.spock.GebReportingSpec
 import org.pih.warehouse.pages.CreateRequisitionPage

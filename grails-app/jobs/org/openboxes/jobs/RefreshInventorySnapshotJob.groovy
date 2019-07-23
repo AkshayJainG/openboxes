@@ -1,4 +1,4 @@
-package org.pih.warehouse.jobs
+package org.openboxes.jobs
 
 
 import org.pih.warehouse.core.Location

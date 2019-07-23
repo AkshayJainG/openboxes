@@ -1,4 +1,4 @@
-package openboxes
+package org.openboxes
 
 import grails.boot.GrailsApp
 import grails.boot.config.GrailsAutoConfiguration

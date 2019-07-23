@@ -1,4 +1,4 @@
-package org.pih.warehouse.pages
+package org.openboxes.pages
 
 import geb.Page
 import testutils.TestFixture

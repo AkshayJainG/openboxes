@@ -1,4 +1,4 @@
-package org.pih.warehouse.requisition
+package org.openboxes.requisition
 
 import grails.test.GrailsUnitTestCase
 import grails.validation.ValidationException

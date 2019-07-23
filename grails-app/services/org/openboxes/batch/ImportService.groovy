@@ -7,7 +7,7 @@
 * the terms of this license.
 * You must not remove this notice, or any other, from this software.
 **/ 
-package org.pih.warehouse.batch
+package org.openboxes.batch
 
 import org.pih.warehouse.core.Location
 import org.pih.warehouse.importer.InventoryExcelImporter

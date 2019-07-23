@@ -1,4 +1,4 @@
-package org.pih.warehouse.picklist
+package org.openboxes.picklist
 import org.pih.warehouse.core.*
 import org.pih.warehouse.requisition.*
 import org.pih.warehouse.inventory.Inventory

@@ -7,7 +7,7 @@
 * the terms of this license.
 * You must not remove this notice, or any other, from this software.
 **/
-package org.pih.warehouse.reporting
+package org.openboxes.reporting
 
 import grails.converters.JSON
 import grails.plugin.springcache.annotations.CacheFlush

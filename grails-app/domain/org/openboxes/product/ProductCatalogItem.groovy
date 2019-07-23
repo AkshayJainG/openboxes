@@ -1,4 +1,4 @@
-package org.pih.warehouse.product
+package org.openboxes.product
 
 class ProductCatalogItem implements Comparable, Serializable {
 

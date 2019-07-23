@@ -1,4 +1,4 @@
-package org.pih.warehouse.core
+package org.openboxes.core
 
 import grails.test.*
 // import org.pih.warehouse.auth.AuthService

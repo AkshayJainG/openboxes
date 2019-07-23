@@ -1,4 +1,4 @@
-package org.pih.warehouse.product
+package org.openboxes.product
 
 import org.junit.Ignore
 import org.junit.Test

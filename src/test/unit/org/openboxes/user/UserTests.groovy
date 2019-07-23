@@ -7,7 +7,7 @@
 * the terms of this license.
 * You must not remove this notice, or any other, from this software.
 **/ 
-package org.pih.warehouse.user
+package org.openboxes.user
 
 import org.junit.After
 import org.junit.Before

@@ -1,4 +1,4 @@
-package org.pih.warehouse.api
+package org.openboxes.api
 
 import org.pih.warehouse.core.Location
 import org.pih.warehouse.core.Person

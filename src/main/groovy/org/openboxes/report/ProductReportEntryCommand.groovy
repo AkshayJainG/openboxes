@@ -7,7 +7,7 @@
 * the terms of this license.
 * You must not remove this notice, or any other, from this software.
 **/ 
-package org.pih.warehouse.report
+package org.openboxes.report
 
 import org.pih.warehouse.inventory.TransactionEntry
 

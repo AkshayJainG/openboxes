@@ -7,7 +7,7 @@
 * the terms of this license.
 * You must not remove this notice, or any other, from this software.
 **/ 
-package org.pih.warehouse.core
+package org.openboxes.core
 
 // import org.apache.commons.mail.SimpleEmail
 // import org.apache.commons.mail.HtmlEmail

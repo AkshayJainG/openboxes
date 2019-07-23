@@ -7,7 +7,7 @@
 * the terms of this license.
 * You must not remove this notice, or any other, from this software.
 **/ 
-package org.pih.warehouse.core
+package org.openboxes.core
 
 import org.grails.plugins.csv.CSVWriter
 import org.pih.warehouse.inventory.InventoryItem

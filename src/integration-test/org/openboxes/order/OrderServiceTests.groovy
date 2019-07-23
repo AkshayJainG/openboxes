@@ -1,4 +1,4 @@
-package org.pih.warehouse.order
+package org.openboxes.order
 
 import org.junit.Test
 import org.pih.warehouse.core.Location;

@@ -1,4 +1,4 @@
-package org.pih.warehouse.importer
+package org.openboxes.importer
 
 import org.apache.commons.lang.StringUtils
 import org.junit.Test
